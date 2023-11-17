@@ -1,4 +1,4 @@
-# WACME -> stACME Liquid Staking
+# stACME (WACME) Liquid Staking
 WACME liquid staking deployment
 
 ## Minters
