@@ -9,7 +9,7 @@ stACME minter contracts:
 **Important!** Each stACME contract is independently deployed on every chain. Do not bridge stACME using Arbitrum bridge, you will get different token on the destination network.
 
 ## Staking Account(s)
-ACME accounts on Accumulated Network
+ACME accounts on Accumulate Network
 - Staking account: `acc://accumulated.acme/staking` ([Explorer](https://explorer.accumulatenetwork.io/acc/accumulated.acme/staking))
 - Staking rewards: `acc://accumulated.acme/staking-rewards` ([Explorer](https://explorer.accumulatenetwork.io/acc/accumulated.acme/staking-rewards))
 - stACME peg protection: `acc://accumulated.acme/peg-protection` ([Explorer](https://explorer.accumulatenetwork.io/acc/accumulated.acme/peg-protection))
