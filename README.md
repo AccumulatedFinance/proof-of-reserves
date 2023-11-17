@@ -7,6 +7,6 @@ Addresses used to manage liquid staking minters
 - Arbitrum: `0xacEf9317dE22A4AE2Fc9bCB9d448c912bdbCadd1` (Gnosis Safe 2/3, [Explorer](https://arbiscan.io/address/0xacEf9317dE22A4AE2Fc9bCB9d448c912bdbCadd1))
 - Velas EVM: `to be deployed` (Gnosis Safe 2/3)
 
-## Liquid Staking Pools
+## Liquid Staking Deployments
 - [WACME -> stACME](WACME.md)
 - [VLX -> stVLX](VLX.md)
