@@ -3,8 +3,8 @@ WACME liquid staking deployment
 
 ## Minters
 stACME minter contracts:
-- Ethereum: `0xdde19cf8bec23c2103f5ada61c83d5fd79e9714f` (Gnosis Safe 2/3, [Explorer](https://etherscan.io/address/0xdde19cf8bec23c2103f5ada61c83d5fd79e9714f))
-- Arbitrum: `0xe54fb84a61583a4cc80878c396ebec588f84ff5d` (Gnosis Safe 2/3, [Explorer](https://arbiscan.io/address/0xe54fb84a61583a4cc80878c396ebec588f84ff5d))
+- Ethereum: `0xdde19cf8bec23c2103f5ada61c83d5fd79e9714f` ([Explorer](https://etherscan.io/address/0xdde19cf8bec23c2103f5ada61c83d5fd79e9714f))
+- Arbitrum: `0xe54fb84a61583a4cc80878c396ebec588f84ff5d` ([Explorer](https://arbiscan.io/address/0xe54fb84a61583a4cc80878c396ebec588f84ff5d))
 
 **Important!** Each stACME contract is independently deployed on every chain. Do not bridge stACME using Arbitrum bridge, you will get different token on the destination network.
 
