@@ -8,5 +8,5 @@ Addresses used to manage liquid staking minters
 - Velas EVM: `to be deployed` (Gnosis Safe 2/3)
 
 ## Liquid Staking Deployments
-- [WACME -> stACME](WACME.md)
-- [VLX -> stVLX](VLX.md)
+- [stACME (WACME)](WACME.md)
+- [stVLX (VLX)](VLX.md)
