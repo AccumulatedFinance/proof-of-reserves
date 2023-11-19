@@ -11,11 +11,15 @@ WACME liquid staking deployment
 **Important!** Each stACME token is independently managed on every chain. Do not bridge Ethereum stACME using Arbitrum bridge, you will get different token on the Arbitrum network.
 
 ## Staking Manager
-No staking manager, liquid staking deposits are directly bridged into staking account using Accumulate Bridge.
+There is no active staking manager, because liquid staking deposits are bridged directly into staking account using Accumulate Bridge.
 
-## Staking Account(s)
+## Staking Deployment
 ACME accounts on Accumulate Network
-- Staking account: `acc://accumulated.acme/staking` ([Explorer](https://explorer.accumulatenetwork.io/acc/accumulated.acme/staking))
-- Staking rewards: `acc://accumulated.acme/staking-rewards` ([Explorer](https://explorer.accumulatenetwork.io/acc/accumulated.acme/staking-rewards))
-- stACME peg protection: `acc://accumulated.acme/peg-protection` ([Explorer](https://explorer.accumulatenetwork.io/acc/accumulated.acme/peg-protection))
-- Treasury: `acc://accumulated.acme/treasury` ([Explorer](https://explorer.accumulatenetwork.io/acc/accumulated.acme/treasury))
+
+| Name | Account | Explorer |
+| -- | -- | -- |
+| Staking account | `acc://accumulated.acme/staking` | [Explorer](https://explorer.accumulatenetwork.io/acc/accumulated.acme/staking) |
+| Staking rewards | `acc://accumulated.acme/staking-rewards` | [Explorer](https://explorer.accumulatenetwork.io/acc/accumulated.acme/staking-rewards) |
+| Protocol fees | `TBA` | `TBA` |
+| stACME peg protection | `acc://accumulated.acme/peg-protection` | [Explorer](https://explorer.accumulatenetwork.io/acc/accumulated.acme/peg-protection) |
+| Treasury | `acc://accumulated.acme/treasury` | [Explorer](https://explorer.accumulatenetwork.io/acc/accumulated.acme/treasury) |
