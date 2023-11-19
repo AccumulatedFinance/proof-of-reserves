@@ -1,12 +1,17 @@
 # stACME (WACME) Liquid Staking
 WACME liquid staking deployment
 
-## Minters
-stACME minter contracts:
-- Ethereum: `0xdde19cf8bec23c2103f5ada61c83d5fd79e9714f` ([Explorer](https://etherscan.io/address/0xdde19cf8bec23c2103f5ada61c83d5fd79e9714f))
-- Arbitrum: `0xe54fb84a61583a4cc80878c396ebec588f84ff5d` ([Explorer](https://arbiscan.io/address/0xe54fb84a61583a4cc80878c396ebec588f84ff5d))
+## stACME Minter(s)
+
+| Network | Address | Explorer |
+| -- | -- | -- |
+| Ethereum | `0xdde19cf8bec23c2103f5ada61c83d5fd79e9714f` | [Explorer](https://etherscan.io/address/0xdde19cf8bec23c2103f5ada61c83d5fd79e9714f) |
+| Arbitrum | `0xe54fb84a61583a4cc80878c396ebec588f84ff5d` | [Explorer](https://arbiscan.io/address/0xe54fb84a61583a4cc80878c396ebec588f84ff5d) |
 
 **Important!** Each stACME token is independently managed on every chain. Do not bridge Ethereum stACME using Arbitrum bridge, you will get different token on the Arbitrum network.
+
+## Staking Manager
+No staking manager, liquid staking deposits are directly bridged into staking account using Accumulate Bridge.
 
 ## Staking Account(s)
 ACME accounts on Accumulate Network
