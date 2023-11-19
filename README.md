@@ -1,5 +1,5 @@
 # Accumulated Finance Deployments
-Addresses related to Accumulated Finance liquid staking.
+Addresses related to Accumulated Finance liquid staking
 
 ## Multi-sigs
 | Network | Address | Multi-sig Type | Explorer |
