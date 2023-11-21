@@ -12,7 +12,7 @@ VLX liquid staking deployment
 | Network | Address | Explorer |
 | -- | -- | -- |
 | Velas EVM | `0xe8Accf90E77C07Ab3e8cB34F0d6b02cD025b803e` | [Explorer](https://evmexplorer.velas.com/address/0xe8Accf90E77C07Ab3e8cB34F0d6b02cD025b803e) |
-| Velan Native | `4mcUFtnwZLJSZzYnW8KvfJbRRCuX9ToEwz6w5MdMLH6t` | [Explorer](https://native.velas.com/address/4mcUFtnwZLJSZzYnW8KvfJbRRCuX9ToEwz6w5MdMLH6t) |
+| Velan Native | `HpcHzvFjd7Fnm75pWWFYVLaWFAVMcvSLneNXb2YqSzf6` | [Explorer](https://native.velas.com/address/HpcHzvFjd7Fnm75pWWFYVLaWFAVMcvSLneNXb2YqSzf6) |
 
 ## Staking Deployment
 VLX accounts on Velas Native
