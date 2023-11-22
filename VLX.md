@@ -19,9 +19,9 @@ VLX accounts on Velas Native
 
 | Name | Address | Explorer |
 | -- | -- | -- |
-| Staking account #1 | `TBA` | `TBA` |
-| Staking account #2 | `TBA` | `TBA` |
-| Staking account #3 | `TBA` | `TBA` |
+| Staking account #1 | `HsqepDZSeeGJqURJwzPHTgNDK1Ctu29TrX2oLRkADBXi` | [Explorer](https://native.velas.com/address/HsqepDZSeeGJqURJwzPHTgNDK1Ctu29TrX2oLRkADBXi) |
+| Staking account #2 | `97AjcoFLcApd8viBgpHA2yYKfkcdocU3yGNXYmfRwwzb` | [Explorer](https://native.velas.com/address/97AjcoFLcApd8viBgpHA2yYKfkcdocU3yGNXYmfRwwzb) |
+| Staking account #3 | `ouuiECKxnoQR2hJnYoeByHTPx8WGijMmvBkT9S88FU5` | [Explorer](https://native.velas.com/address/ouuiECKxnoQR2hJnYoeByHTPx8WGijMmvBkT9S88FU5) |
 | Protocol fees | `TBA` | `TBA` |
 | stVLX peg protection | `TBA` | `TBA` |
 | Treasury | `TBA` | `TBA` |
