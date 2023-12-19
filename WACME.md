@@ -11,7 +11,11 @@ WACME liquid staking deployment
 **Important!** Each stACME token is independently managed on every chain. Do not bridge Ethereum stACME using Arbitrum bridge, you will get different token on the Arbitrum network.
 
 ## Staking Manager
-There is no active staking manager, because liquid staking deposits are bridged directly into staking account using Accumulate Bridge.
+| Network | Address | Explorer |
+| -- | -- | -- |
+| Accumulate | `acc://accumulated.acme/book` | [Explorer](https://explorer.accumulatenetwork.io/acc/accumulated.acme/book) |
+| Ethereum | N/A | Staking deposits are automatically bridged to Accumulate |
+| Arbitrum | N/A | Staking deposits are automatically bridged to Accumulate |
 
 ## Staking Deployment
 ACME accounts on Accumulate Network
