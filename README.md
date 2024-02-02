@@ -10,8 +10,9 @@ Addresses related to Accumulated Finance liquid staking
 | Manta Paficic | `0x25DEF045050b20876369D23d52d3Bc4F695d6663` | Gnosis Safe 2/3 | [Explorer](https://pacific-explorer.manta.network/address/0x25DEF045050b20876369D23d52d3Bc4F695d6663) |
 | Velas EVM | `0xC43Ac6dF6376601E55aa75403BE59dCD1a861F0A` | Gnosis Safe 2/3 | [Explorer](https://evmexplorer.velas.com/address/0xC43Ac6dF6376601E55aa75403BE59dCD1a861F0A) |
 | Velas Native | `4d9wx5HQbbpaVeAoedWf7vHEFPRQR9We7nQq6yLP8Zyr` | Squads 3/4 (with Velas team) | [Explorer](https://native.velas.com/address/4d9wx5HQbbpaVeAoedWf7vHEFPRQR9We7nQq6yLP8Zyr) |
-| ZetaChain | `0xbF706A06DD2086F6E328E20B028BacDd75Be1CA8` | Gnosis Safe 2/3 | N/A |
+| ZetaChain | `0xbF706A06DD2086F6E328E20B028BacDd75Be1CA8` | Gnosis Safe 2/3 | [Explorer](https://zetachain.blockscout.com/address/0xbF706A06DD2086F6E328E20B028BacDd75Be1CA8) |
 
 ## Liquid Staking Deployments
 - [stACME (WACME)](WACME.md)
 - [stVLX (VLX)](VLX.md)
+- [stZETA (ZETA)](ZETA.md)
