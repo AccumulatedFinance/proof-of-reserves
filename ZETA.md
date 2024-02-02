@@ -23,7 +23,7 @@ ZETA accounts on ZetaChain
 
 | Name | Account | Explorer |
 | -- | -- | -- |
-| Staking account | `zeta1p083v55an9gpxag3j5edarrw4xmuwcz2hmmswn` | [Explorer](https://explorer.accumulatenetwork.io/acc/accumulated.acme/staking) |
+| Staking account | `zeta1p083v55an9gpxag3j5edarrw4xmuwcz2hmmswn` | [Ping.pub](https://ping.pub/zetachain/account/zeta1p083v55an9gpxag3j5edarrw4xmuwcz2hmmswn) |
 | Protocol fees | `TBA` | `TBA` |
 | stZETA peg protection | `TBA` | `TBA` |
 | Treasury | `TBA` | `TBA` |
