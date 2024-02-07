@@ -25,5 +25,5 @@ ZETA accounts on ZetaChain
 | -- | -- | -- |
 | Staking account | `zeta1p083v55an9gpxag3j5edarrw4xmuwcz2hmmswn` | [Ping.pub](https://ping.pub/zetachain/account/zeta1p083v55an9gpxag3j5edarrw4xmuwcz2hmmswn) |
 | Protocol fees | `TBA` | `TBA` |
-| stZETA peg protection | `TBA` | `TBA` |
-| Treasury | `TBA` | `TBA` |
+| stZETA peg protection | `0x7CE3ac7A7B4D1157A7004aBEAd8cD6e24f5C52F6` | [Explorer](https://zetachain.blockscout.com/address/0x7CE3ac7A7B4D1157A7004aBEAd8cD6e24f5C52F6) |
+| Treasury | `0xbF706A06DD2086F6E328E20B028BacDd75Be1CA8` | [Explorer](https://zetachain.blockscout.com/address/0xbF706A06DD2086F6E328E20B028BacDd75Be1CA8) |
