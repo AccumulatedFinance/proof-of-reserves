@@ -16,7 +16,7 @@ ZETA liquid staking deployment
 | -- | -- | -- |
 | ZetaChain | `0x0bcF16529D99501375119532dE8c6Ea9B7c7604a` | [Explorer](https://zetachain.blockscout.com/address/0x0bcF16529D99501375119532dE8c6Ea9B7c7604a) |
 | Ethereum | N/A | Staking deposits are automatically bridged to ZetaChain |
-| Arbitrum | N/A | Staking deposits are automatically bridged to ZetaChain |
+| BNB Chain | N/A | Staking deposits are automatically bridged to ZetaChain |
 
 ## Staking Deployment
 ZETA accounts on ZetaChain
