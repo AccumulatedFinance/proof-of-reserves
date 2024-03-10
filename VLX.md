@@ -14,7 +14,7 @@ VLX liquid staking deployment
 
 | Network | Address | Explorer |
 | -- | -- | -- |
-| Velan Native | `HpcHzvFjd7Fnm75pWWFYVLaWFAVMcvSLneNXb2YqSzf6` | [Explorer](https://native.velas.com/address/HpcHzvFjd7Fnm75pWWFYVLaWFAVMcvSLneNXb2YqSzf6) |
+| Velas Native | `HpcHzvFjd7Fnm75pWWFYVLaWFAVMcvSLneNXb2YqSzf6` | [Explorer](https://native.velas.com/address/HpcHzvFjd7Fnm75pWWFYVLaWFAVMcvSLneNXb2YqSzf6) |
 | Velas EVM | `0xe8Accf90E77C07Ab3e8cB34F0d6b02cD025b803e` | [Explorer](https://evmexplorer.velas.com/address/0xe8Accf90E77C07Ab3e8cB34F0d6b02cD025b803e) |
 | BSC | N/A | Staking deposits are automatically bridged to Velas EVM |
 
