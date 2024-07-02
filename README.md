@@ -19,6 +19,7 @@ Addresses related to Accumulated Finance liquid staking
 | Velas Native | `4d9wx5HQbbpaVeAoedWf7vHEFPRQR9We7nQq6yLP8Zyr` | 3/4 (with Velas team) | [Explorer](https://native.velas.com/address/4d9wx5HQbbpaVeAoedWf7vHEFPRQR9We7nQq6yLP8Zyr) |
 
 ## Liquid Staking Deployments
+- [SEI (eSEI)](SEI.md)
 - [VLX (stVLX)](VLX.md)
 - [WACME (stACME)](WACME.md)
 - [ZETA (stZETA)](ZETA.md)
