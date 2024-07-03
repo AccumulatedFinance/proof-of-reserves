@@ -17,7 +17,7 @@ Sei accounts on Sei EVM
 
 | Name | Account | Explorer |
 | -- | -- | -- |
-| Staking account | `0x7CE3ac7A7B4D1157A7004aBEAd8cD6e24f5C52F6` | [Explorer](https://seitrace.com/address/0x7CE3ac7A7B4D1157A7004aBEAd8cD6e24f5C52F6) |
+| Staking account | `sei1xwptsyt8erq4tmlk9g893pl84lwupqrm7aakpe` | [Mintscan](https://www.mintscan.io/sei/address/sei1xwptsyt8erq4tmlk9g893pl84lwupqrm7aakpe) |
 | Protocol fees | `TBA` | `TBA` |
 | eSEI peg protection | `0x72C3A2f6248D1524b4aDd530bD4B10732608D974` | [Explorer](https://seitrace.com/address/0x72C3A2f6248D1524b4aDd530bD4B10732608D974) |
 | Treasury | `0x1332c9e3906Cf7FC6431C4ae25A6a381Ce7cd7db` | [Explorer](https://seitrace.com/address/0x1332c9e3906Cf7FC6431C4ae25A6a381Ce7cd7db) |
