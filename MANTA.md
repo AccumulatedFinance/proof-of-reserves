@@ -20,5 +20,5 @@ Manta accounts on Manta Network
 | Staking account #1 | `dfXPQM81cyNum26gqgAqMYmjPYZTK3zwShKJemuuHLjE9Bi1M` | [Subscan](https://manta.subscan.io/account/dfXPQM81cyNum26gqgAqMYmjPYZTK3zwShKJemuuHLjE9Bi1M) |
 | Staking account #2 | `dfaFpzkgs4Dd3Df6Zd99w17z2nvfNrWSyXJiSAbThLC8TS45c` | [Subscan](https://manta.subscan.io/account/dfaFpzkgs4Dd3Df6Zd99w17z2nvfNrWSyXJiSAbThLC8TS45c) |
 | Protocol fees | `TBA` | `TBA` |
-| eSEI peg protection | `0x72C3A2f6248D1524b4aDd530bD4B10732608D974` | [Explorer](https://pacific-explorer.manta.network/address/0x72C3A2f6248D1524b4aDd530bD4B10732608D974) |
+| stMANTA peg protection | `0x72C3A2f6248D1524b4aDd530bD4B10732608D974` | [Explorer](https://pacific-explorer.manta.network/address/0x72C3A2f6248D1524b4aDd530bD4B10732608D974) |
 | Treasury | `0x25DEF045050b20876369D23d52d3Bc4F695d6663` | [Explorer](https://pacific-explorer.manta.network/address/0x25DEF045050b20876369D23d52d3Bc4F695d6663) |
