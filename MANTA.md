@@ -11,6 +11,7 @@ MANTA liquid staking deployment
 | Network | Address | Explorer |
 | -- | -- | -- |
 | Manta Pacific | `0x7CE3ac7A7B4D1157A7004aBEAd8cD6e24f5C52F6` | [Explorer](https://pacific-explorer.manta.network/address/0x7CE3ac7A7B4D1157A7004aBEAd8cD6e24f5C52F6) |
+| Moonbeam | `0x7CE3ac7A7B4D1157A7004aBEAd8cD6e24f5C52F6` | [Explorer](https://moonscan.io/address/0x7CE3ac7A7B4D1157A7004aBEAd8cD6e24f5C52F6) |
 
 ## Staking Deployment
 Manta accounts on Manta Network
