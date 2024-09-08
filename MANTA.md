@@ -5,7 +5,7 @@ MANTA liquid staking deployment
 
 | Network | Address | Explorer |
 | -- | -- | -- |
-| Manta Pacific | `0xcf1a40eff1a4d4c56dc4042a1ae93013d13c3217` | [Explorer](https://pacific-explorer.manta.network/address/0xcf1a40eff1a4d4c56dc4042a1ae93013d13c3217) |
+| Manta Pacific | `0x27741d007358eb6c1924bf459cd7e06e60c8c1de` | [Explorer](https://pacific-explorer.manta.network/address/0x27741d007358eb6c1924bf459cd7e06e60c8c1de) |
 
 ## Staking Manager
 | Network | Address | Explorer |
