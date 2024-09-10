@@ -21,6 +21,7 @@ Addresses related to Accumulated Finance liquid staking
 
 ## Liquid Staking Deployments
 - [MANTA (stMANTA)](MANTA.md)
+- [ROSE (stROSE)](ROSE.md)
 - [SEI (eSEI)](SEI.md)
 - [VLX (stVLX)](VLX.md)
 - [WACME (stACME)](WACME.md)
