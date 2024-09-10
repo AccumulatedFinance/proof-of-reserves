@@ -11,6 +11,7 @@ Addresses related to Accumulated Finance liquid staking
 | 169 | Manta Pacific | `0x25DEF045050b20876369D23d52d3Bc4F695d6663` | 2/3 | [Explorer](https://pacific-explorer.manta.network/address/0x25DEF045050b20876369D23d52d3Bc4F695d6663) |
 | 1329 | Sei EVM | `0x1332c9e3906Cf7FC6431C4ae25A6a381Ce7cd7db` | 2/3 | [Explorer](https://seitrace.com/address/0x1332c9e3906Cf7FC6431C4ae25A6a381Ce7cd7db) |
 | 7000 | ZetaChain | `0xbF706A06DD2086F6E328E20B028BacDd75Be1CA8` | 2/3 | [Explorer](https://zetachain.blockscout.com/address/0xbF706A06DD2086F6E328E20B028BacDd75Be1CA8) |
+| 23294 | Oasis Sapphire | `0xBc85273bE2919A2D9E2149692659E94Abb731805` | 2/3 | [Explorer](https://explorer.oasis.io/mainnet/sapphire/address/0xBc85273bE2919A2D9E2149692659E94Abb731805) |
 | 42161 | Arbitrum | `0xacEf9317dE22A4AE2Fc9bCB9d448c912bdbCadd1` | 2/3 | [Explorer](https://arbiscan.io/address/0xacEf9317dE22A4AE2Fc9bCB9d448c912bdbCadd1) |
 
 ## Squads Multi-sigs
