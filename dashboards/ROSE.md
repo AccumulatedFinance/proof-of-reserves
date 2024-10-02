@@ -1,21 +1,22 @@
-# stROSE (ROSE) Liquid Staking
-ROSE liquid staking deployment
+[← All LSTs](../README.md)
+# stROSE Proof of Reserves
 
-## stROSE Minter(s)
+## Methodology
+Each stROSE is fully backed by staked ROSE.
+> LST Total Supply = Minters + Delegated tokens + Pending undelegations
+
+### On-chain Delegations/Undelegations
+ROSE tokens are delegated directly to Oasis validators on the Consensus layer via stROSE Minter on Oasis Sapphire. You can call the following methods to verify delegations and amounts.
+
+- `getAllDelegations()` returns all validators to which ROSE tokens are delegated (in `0x` format; conversion to `oasis1` format using bech32)
+- `getDelegation(validator bytes21)` returns number of shares, delegated to the validator
+- Knowing the number of shares and the validator address, you can get the number of delegated tokens to this validaor (using [Oasis Nexus API](https://nexus.oasis.io/v1/spec/v1.html) or validator page on [Oasisscan](https://www.oasisscan.com/validators))
+- Pending undelegations take ~14 days and can be read by reading undelegation receipts using `getUndelegationReceipt(receiptId uint64)` method
+
+## Addresses
+
+### stROSE Minter(s)
 
 | Network | Address | Explorer |
 | -- | -- | -- |
 | Oasis Sapphire | `0xb9c0df6e5df4e5eabb824d66c764dee0b889d574` | [Explorer](https://explorer.oasis.io/mainnet/sapphire/address/0xb9c0df6e5df4e5eabb824d66c764dee0b889d574) |
-
-## Staking Manager
-N/A (permissionless delegated staking to the Oasis consensus layer)
-
-## Staking Deployment
-Oasis accounts on Oasis Sapphire
-
-| Name | Account | Explorer |
-| -- | -- | -- |
-| Staking account | `0xb9c0df6e5df4e5eabb824d66c764dee0b889d574` | [Explorer](https://explorer.oasis.io/mainnet/sapphire/address/0xb9c0df6e5df4e5eabb824d66c764dee0b889d574) |
-| Protocol fees | `TBA` | `TBA` |
-| stROSE peg protection | `0x72C3A2f6248D1524b4aDd530bD4B10732608D974` | [Explorer](https://explorer.oasis.io/mainnet/sapphire/address/0x72C3A2f6248D1524b4aDd530bD4B10732608D974) |
-| Treasury | `0xBc85273bE2919A2D9E2149692659E94Abb731805` | [Explorer](https://explorer.oasis.io/mainnet/sapphire/address/0xBc85273bE2919A2D9E2149692659E94Abb731805) |
