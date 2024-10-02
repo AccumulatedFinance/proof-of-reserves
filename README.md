@@ -2,14 +2,14 @@
 Each Accumulated Finance liquid staking token is fully backed by the corresponding staked asset, as reflected in our proof of reserve dashboards.
 
 ## Proof of Reserves
-| Token | LST | Staking Type | Staking Mechanism | Proof of Reserves
-| -- | -- | -- | -- | -- |
-| MANTA | stMANTA | Modular (EVM → Polkadot) | 🔢 Multi-sig delegation | [Dashboard](dashboards/MANTA.md) |
-| ROSE | stROSE | Modular (EVM → Consensus Layer) | ✅ Permissionless on-chain delegation via smart contracts | [Dashboard](dashboards/ROSE.md) |
-| SEI | eSEI | On-chain (EVM) | 🔢 Multi-sig delegation<br />*Permissionless on-chain delegation via smart contracts in development* | [Dashboard](dashboards/SEI.md) |
-| VLX | stVLX | Modular (EVM → Solana) | 🔢 Multi-sig delegation | [Dashboard](dashboards/VLX.md) |
-| WACME | stACME | Modular (EVM → Accumulate) | 🔢 Multi-sig delegation | [Dashboard](dashboards/WACME.md) |
-| ZETA | stZETA | Modular (EVM → Cosmos) | 🔢 Multi-sig delegation<br />*Permissionless on-chain delegation via smart contracts in development* | [Dashboard](dashboards/ZETA.md) |
+| Token | LST | Staking Mechanism | Proof of Reserves |
+| -- | -- | -- | -- |
+| MANTA | stMANTA | 🔢 Multi-sig delegation | [Dashboard](dashboards/MANTA.md) |
+| ROSE | stROSE | ✅ Permissionless on-chain delegation via smart contracts | [Dashboard](dashboards/ROSE.md) |
+| SEI | eSEI | 🔢 Multi-sig delegation<br />*Permissionless on-chain delegation via smart contracts in development* | [Dashboard](dashboards/SEI.md) |
+| VLX | stVLX | 🔢 Multi-sig delegation | [Dashboard](dashboards/VLX.md) |
+| WACME | stACME | 🔢 Multi-sig delegation | [Dashboard](dashboards/WACME.md) |
+| ZETA | stZETA | 🔢 Multi-sig delegation<br />*Permissionless on-chain delegation via smart contracts in development* | [Dashboard](dashboards/ZETA.md) |
 
 ## Multi-sig Addresses
 Multi-sig addresses related to Accumulated Finance
