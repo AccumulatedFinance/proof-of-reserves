@@ -11,7 +11,7 @@ ROSE tokens are delegated directly to Oasis validators on the Consensus layer vi
 - `getAllDelegations()` returns all validators to which ROSE tokens are delegated (in `0x` format; convert to `oasis1` format using bech32)
 - `getDelegation(validator bytes21)` returns the number of shares, delegated to the validator
 - Knowing the number of shares and the validator address, you can get the number of delegated tokens to this validator (using [Oasis Nexus API](https://nexus.oasis.io/v1/spec/v1.html) or validator page on [Oasisscan](https://www.oasisscan.com/validators))
-- Pending undelegations take ~14 days and can be read by reading undelegation receipts using `getUndelegationReceipt(receiptId uint64)` method (first `receiptId = 4294967296`)
+- Pending undelegations take ~14 days and can be read using `getUndelegationReceipt(receiptId uint64)` method (first `receiptId = 4294967296`)
 
 ## Addresses
 
