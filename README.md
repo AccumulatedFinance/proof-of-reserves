@@ -1,7 +1,20 @@
-# Accumulated Finance Deployments
-Addresses related to Accumulated Finance liquid staking
+# Proof of Reserves
+Each Accumulated Finance liquid staking token is fully backed by the corresponding staked asset, as reflected in our proof of reserve dashboards.
 
-## Gnosis Safe Multi-sigs
+## Proof of Reserves
+| Token | LST | Staking Type | Staking Mechanism | Proof of Reserves
+| -- | -- | -- | -- | -- |
+| MANTA | stMANTA | Modular (EVM → Polkadot) | 🔢 Multi-sig delegation | [Dashboard](dashboards/MANTA.md) |
+| ROSE | stROSE | Modular (EVM → Consensus Layer) | ✅ Permissionless on-chain delegation via smart contracts | [Dashboard](dashboards/ROSE.md) |
+| SEI | eSEI | On-chain (EVM) | 🔢 Multi-sig delegation<br />*Permissionless on-chain delegation via smart contracts in development* | [Dashboard](dashboards/SEI.md) |
+| VLX | stVLX | Modular (EVM → Solana) | 🔢 Multi-sig delegation | [Dashboard](dashboards/VLX.md) |
+| WACME | stACME | Modular (EVM → Accumulate) | 🔢 Multi-sig delegation | [Dashboard](dashboards/WACME.md) |
+| ZETA | stZETA | Modular (EVM → Cosmos) | 🔢 Multi-sig delegation<br />*Permissionless on-chain delegation via smart contracts in development* | [Dashboard](dashboards/ZETA.md) |
+
+## Multi-sig Addresses
+Multi-sig addresses related to Accumulated Finance
+
+### Gnosis Safe Multi-sigs
 | EVM Chain ID | Network | Address | Threshold | Explorer |
 | -- | -- | -- | -- | -- |
 | 1 | Ethereum | `0xD22F2De31bA14917cCd7c6b8A52Fee6BE893a17e` | 2/3 | [Explorer](https://etherscan.io/address/0xD22F2De31bA14917cCd7c6b8A52Fee6BE893a17e) |
@@ -14,15 +27,7 @@ Addresses related to Accumulated Finance liquid staking
 | 23294 | Oasis Sapphire | `0xBc85273bE2919A2D9E2149692659E94Abb731805` | 2/3 | [Explorer](https://explorer.oasis.io/mainnet/sapphire/address/0xBc85273bE2919A2D9E2149692659E94Abb731805) |
 | 42161 | Arbitrum | `0xacEf9317dE22A4AE2Fc9bCB9d448c912bdbCadd1` | 2/3 | [Explorer](https://arbiscan.io/address/0xacEf9317dE22A4AE2Fc9bCB9d448c912bdbCadd1) |
 
-## Squads Multi-sigs
+### Squads Multi-sigs
 | Network | Address | Threshold | Explorer |
 | -- | -- | -- | -- |
 | Velas Native | `4d9wx5HQbbpaVeAoedWf7vHEFPRQR9We7nQq6yLP8Zyr` | 3/4 (with Velas team) | [Explorer](https://native.velas.com/address/4d9wx5HQbbpaVeAoedWf7vHEFPRQR9We7nQq6yLP8Zyr) |
-
-## Liquid Staking Deployments
-- [MANTA (stMANTA)](MANTA.md)
-- [ROSE (stROSE)](ROSE.md)
-- [SEI (eSEI)](SEI.md)
-- [VLX (stVLX)](VLX.md)
-- [WACME (stACME)](WACME.md)
-- [ZETA (stZETA)](ZETA.md)
