@@ -4,12 +4,12 @@ Each Accumulated Finance liquid staking token is fully backed by the correspondi
 ## Proof of Reserves
 | Token | LST | Staking Mechanism | Proof of Reserves |
 | -- | -- | -- | -- |
-| MANTA | stMANTA | 🔢 Multi-sig delegation | [Dashboard](dashboards/MANTA.md) |
-| ROSE | stROSE | ✅ Permissionless on-chain delegation via smart contracts | [Dashboard](dashboards/ROSE.md) |
-| SEI | eSEI | 🔢 Multi-sig delegation<br />*Permissionless on-chain delegation via smart contracts in development* | [Dashboard](dashboards/SEI.md) |
+| MANTA | stMANTA | 🔢 Multi-sig delegation<br />*Permissionless on-chain delegation within stMANTAMinter in development* | [Dashboard](dashboards/MANTA.md) |
+| ROSE | stROSE | ✅ Permissionless on-chain delegation within stROSEMinter | [Dashboard](dashboards/ROSE.md) |
+| SEI | eSEI | 🔢 Multi-sig delegation<br />*Permissionless on-chain delegation within eSEIMinter in development* | [Dashboard](dashboards/SEI.md) |
 | VLX | stVLX | 🔢 Multi-sig delegation | [Dashboard](dashboards/VLX.md) |
 | WACME | stACME | 🔢 Multi-sig delegation | [Dashboard](dashboards/WACME.md) |
-| ZETA | stZETA | 🔢 Multi-sig delegation<br />*Permissionless on-chain delegation via smart contracts in development* | [Dashboard](dashboards/ZETA.md) |
+| ZETA | stZETA | 🔢 Multi-sig delegation<br />*Permissionless on-chain delegation within stZETAMinter in development* | [Dashboard](dashboards/ZETA.md) |
 
 ## Multi-sig Addresses
 Multi-sig addresses related to Accumulated Finance
