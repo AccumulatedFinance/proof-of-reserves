@@ -19,4 +19,3 @@ ACME is staked on Accumulate Network
 | Name | Account | Explorer |
 | -- | -- | -- |
 | Staking account | `acc://accumulated.acme/staking` | [Explorer](https://explorer.accumulatenetwork.io/acc/accumulated.acme/staking) |
-| Staking rewards | `acc://accumulated.acme/staking-rewards` | [Explorer](https://explorer.accumulatenetwork.io/acc/accumulated.acme/staking-rewards) |
