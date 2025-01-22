@@ -4,7 +4,7 @@ Each Accumulated Finance liquid staking token is fully backed by the correspondi
 ## Proof of Reserves
 | Token | LST | Staking Mechanism | Proof of Reserves |
 | -- | -- | -- | -- |
-| ART | stART | 🔢 Multi-sig delegation<br />⏳ *Permissionless on-chain delegation within stARTMinter in development* | TBD |
+| ART | stART | 🔢 Multi-sig delegation<br />⏳ *Permissionless on-chain delegation within stARTMinter in development* | [Dashboard](dashboards/ART.md) |
 | MANTA | stMANTA | 🔢 Multi-sig delegation<br />⏳ *Permissionless on-chain delegation within stMANTAMinter in development* | [Dashboard](dashboards/MANTA.md) |
 | ROSE | stROSE | ✅ Permissionless on-chain delegation within stROSEMinter | [Dashboard](dashboards/ROSE.md) |
 | SEI | eSEI | 🔢 Multi-sig delegation<br />⏳ *Permissionless on-chain delegation within eSEIMinter in development* | [Dashboard](dashboards/SEI.md) |
@@ -25,7 +25,7 @@ Multi-sig addresses related to Accumulated Finance
 | 169 | Manta Pacific | `0x25DEF045050b20876369D23d52d3Bc4F695d6663` | 2/3 | [Explorer](https://pacific-explorer.manta.network/address/0x25DEF045050b20876369D23d52d3Bc4F695d6663) |
 | 1329 | Sei EVM | `0x1332c9e3906Cf7FC6431C4ae25A6a381Ce7cd7db` | 2/3 | [Explorer](https://seitrace.com/address/0x1332c9e3906Cf7FC6431C4ae25A6a381Ce7cd7db) |
 | 7000 | ZetaChain | `0xbF706A06DD2086F6E328E20B028BacDd75Be1CA8` | 2/3 | [Explorer](https://zetachain.blockscout.com/address/0xbF706A06DD2086F6E328E20B028BacDd75Be1CA8) |
-| 11820 | Artela | `TBD` | 2/3 | TBD |
+| 11820 | Artela | `0x7006cff0bab69c702efa9844ee52d67d2d643e3d` | 2/3 | [Explorer](https://artscan.artela.network/address/0x7006cff0bab69c702efa9844ee52d67d2d643e3d) |
 | 23294 | Oasis Sapphire | `0xBc85273bE2919A2D9E2149692659E94Abb731805` | 2/3 | [Explorer](https://explorer.oasis.io/mainnet/sapphire/address/0xBc85273bE2919A2D9E2149692659E94Abb731805) |
 | 42161 | Arbitrum | `0xacEf9317dE22A4AE2Fc9bCB9d448c912bdbCadd1` | 2/3 | [Explorer](https://arbiscan.io/address/0xacEf9317dE22A4AE2Fc9bCB9d448c912bdbCadd1) |
 
