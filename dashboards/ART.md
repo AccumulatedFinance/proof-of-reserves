@@ -18,7 +18,7 @@ stART LST is fully backed by staked ART
 | Artela | `0x7CE3ac7A7B4D1157A7004aBEAd8cD6e24f5C52F6` | [Explorer](https://artscan.artela.network/address/0x7CE3ac7A7B4D1157A7004aBEAd8cD6e24f5C52F6) |
 
 ### Staking Accounts
-MANTA is staked on Manta Atlantic
+ART is staked on Artela
 
 | Name | Account | Explorer |
 | -- | -- | -- |
