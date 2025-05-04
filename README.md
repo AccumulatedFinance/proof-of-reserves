@@ -4,10 +4,9 @@ Each Accumulated Finance liquid staking token is fully backed by the correspondi
 ## Proof of Reserves
 | Token | LST | Staking Mechanism | Proof of Reserves |
 | -- | -- | -- | -- |
-| ART | stART | 🔢 Multi-sig delegation<br />⏳ *Permissionless on-chain delegation within stARTMinter in development* | [Dashboard](dashboards/ART.md) |
+| KUB | stKUB | ✅ Permissionless on-chain delegation within stKUBMinter | [Dashboard](dashboards/KUB.md) |
 | MANTA | stMANTA | 🔢 Multi-sig delegation<br />⏳ *Permissionless on-chain delegation within stMANTAMinter in development* | [Dashboard](dashboards/MANTA.md) |
 | ROSE | stROSE | ✅ Permissionless on-chain delegation within stROSEMinter | [Dashboard](dashboards/ROSE.md) |
-| SEI | eSEI | 🔢 Multi-sig delegation<br />⏳ *Permissionless on-chain delegation within eSEIMinter in development* | [Dashboard](dashboards/SEI.md) |
 | VLX | stVLX | 🔢 Multi-sig delegation | [Dashboard](dashboards/VLX.md) |
 | WACME | stACME | 🔢 Multi-sig delegation | [Dashboard](dashboards/WACME.md) |
 | ZETA | stZETA | 🔢 Multi-sig delegation<br />⏳ *Permissionless on-chain delegation within stZETAMinter in development* | [Dashboard](dashboards/ZETA.md) |
@@ -21,6 +20,7 @@ Multi-sig addresses related to Accumulated Finance
 | 1 | Ethereum | `0xD22F2De31bA14917cCd7c6b8A52Fee6BE893a17e` | 2/3 | [Explorer](https://etherscan.io/address/0xD22F2De31bA14917cCd7c6b8A52Fee6BE893a17e) |
 | 56 | BNB Chain | `0x5430047e53EFb974eDd2c59989D9958DFEB81F56` | 2/3 | [Explorer](https://bscscan.com/address/0x5430047e53EFb974eDd2c59989D9958DFEB81F56) |
 | 82 | Meter | `0x1DDd757bBF1ebf3a4271B99D922C33873A1B1706` | 2/3 | [Explorer](https://scan.meter.io/address/0x1ddd757bbf1ebf3a4271b99d922c33873a1b1706) |
+| 96 | KUB Chain | `0xDc685cE3F2bd5D35b17aeF0E824c81Eea7B87fdE` | 2/3 | [Explorer](https://kubscan.com/address/0xDc685cE3F2bd5D35b17aeF0E824c81Eea7B87fdE) |
 | 106 | Velas EVM | `0xA327cc41971f532c6be8EdB51692f5522B16Ae7a` | 2/3 | [Explorer](https://evmexplorer.velas.com/address/0xA327cc41971f532c6be8EdB51692f5522B16Ae7a) 
 | 169 | Manta Pacific | `0x25DEF045050b20876369D23d52d3Bc4F695d6663` | 2/3 | [Explorer](https://pacific-explorer.manta.network/address/0x25DEF045050b20876369D23d52d3Bc4F695d6663) |
 | 1329 | Sei EVM | `0x1332c9e3906Cf7FC6431C4ae25A6a381Ce7cd7db` | 2/3 | [Explorer](https://seitrace.com/address/0x1332c9e3906Cf7FC6431C4ae25A6a381Ce7cd7db) |
