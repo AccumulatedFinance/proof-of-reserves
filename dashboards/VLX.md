@@ -27,3 +27,4 @@ VLX is staked on Velas Native
 | Staking account #1 | `HsqepDZSeeGJqURJwzPHTgNDK1Ctu29TrX2oLRkADBXi` | [Explorer](https://native.velas.com/address/HsqepDZSeeGJqURJwzPHTgNDK1Ctu29TrX2oLRkADBXi) |
 | Staking account #2 | `97AjcoFLcApd8viBgpHA2yYKfkcdocU3yGNXYmfRwwzb` | [Explorer](https://native.velas.com/address/97AjcoFLcApd8viBgpHA2yYKfkcdocU3yGNXYmfRwwzb) |
 | Staking account #3 | `ouuiECKxnoQR2hJnYoeByHTPx8WGijMmvBkT9S88FU5` | [Explorer](https://native.velas.com/address/ouuiECKxnoQR2hJnYoeByHTPx8WGijMmvBkT9S88FU5) |
+| Staking account #4 | `7vAEnjHWCFrjJFL4k33uMDwmAMPmp8u9sgp6QZck7SoL` | [Explorer](https://native.velas.com/address/7vAEnjHWCFrjJFL4k33uMDwmAMPmp8u9sgp6QZck7SoL) |
