@@ -8,10 +8,8 @@ stVLX LST is fully backed by staked VLX
 ## Addresses
 
 ### stVLX Minters
-| Network | Address | Explorer |
-| -- | -- | -- |
-| Velas EVM | `0x4781f0c82dc3ab55d79bd3956689d1b65fbd23ad` | [Explorer](https://evmexplorer.velas.com/address/0x4781f0c82Dc3Ab55D79Bd3956689D1B65FBD23aD) |
-| BNB Chain | `0x5452f159b48d14a22cbf1988038c41dfec5a0fe8` | [Explorer](https://bscscan.com/address/0x5452f159b48d14a22cbf1988038c41dfec5a0fe8) |
+Actual minter address(es) can be found here:<br />
+[https://accumulated.finance/stake/vlx](https://accumulated.finance/stake/vlx)
 
 ### Staking Manager
 | Network | Address | Explorer |
