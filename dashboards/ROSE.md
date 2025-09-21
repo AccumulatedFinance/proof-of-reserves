@@ -18,6 +18,5 @@ ROSE tokens are delegated directly to Oasis validators on the Consensus layer vi
 ## Addresses
 
 ### stROSE Minters
-| Network | Address | Explorer |
-| -- | -- | -- |
-| Oasis Sapphire | `0xb9c0df6e5df4e5eabb824d66c764dee0b889d574` | [Explorer](https://explorer.oasis.io/mainnet/sapphire/address/0xb9c0df6e5df4e5eabb824d66c764dee0b889d574) |
+Actual minter address(es) can be found here:<br />
+[https://accumulated.finance/stake/rose](https://accumulated.finance/stake/rose)
