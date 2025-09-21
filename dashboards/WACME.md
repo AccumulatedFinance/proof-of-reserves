@@ -8,10 +8,8 @@ stACME LST is fully backed by staked ACME
 ## Addresses
 
 ### stACME Minters
-| Network | Address | Explorer |
-| -- | -- | -- |
-| Ethereum | `0xdde19cf8bec23c2103f5ada61c83d5fd79e9714f` | [Explorer](https://etherscan.io/address/0xdde19cf8bec23c2103f5ada61c83d5fd79e9714f) |
-| Arbitrum | `0xe54fb84a61583a4cc80878c396ebec588f84ff5d` | [Explorer](https://arbiscan.io/address/0xe54fb84a61583a4cc80878c396ebec588f84ff5d) |
+Actual minter address(es) can be found here:<br />
+[https://accumulated.finance/stake/wacme](https://accumulated.finance/stake/wacme)
 
 ### Staking Accounts
 ACME is staked on Accumulate Network
