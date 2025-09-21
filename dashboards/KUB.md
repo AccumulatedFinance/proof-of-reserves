@@ -14,6 +14,5 @@ KUB tokens are delegated directly to KUB validators via stKUB Minter on KUB. You
 ## Addresses
 
 ### stKUB Minters
-| Network | Address | Explorer |
-| -- | -- | -- |
-| KUB | `0xea2a340f1ac58fba31bae7c5f31928ae6194c071` | [Explorer](https://kubscan.com/address/0xea2a340f1ac58fba31bae7c5f31928ae6194c071) |
+Actual minter address(es) can be found here:<br />
+[https://accumulated.finance/stake/kub](https://accumulated.finance/stake/kub)
