@@ -4,8 +4,9 @@ Each Accumulated Finance liquid staking token is fully backed by the correspondi
 ## Proof of Reserves
 | Token | LST | Staking Mechanism | Proof of Reserves |
 | -- | -- | -- | -- |
+| COTI | stCOTI | 🔢 Multi-sig delegation | [Dashboard](dashboards/COTI.md) |
 | KUB | stKUB | ✅ Permissionless on-chain delegation within stKUBMinter | [Dashboard](dashboards/KUB.md) |
-| MANTA | stMANTA | 🔢 Multi-sig delegation<br />⏳ *Permissionless on-chain delegation within stMANTAMinter in development* | [Dashboard](dashboards/MANTA.md) |
+| MANTA | stMANTA | 🔢 Multi-sig delegation | [Dashboard](dashboards/MANTA.md) |
 | ROSE | stROSE | ✅ Permissionless on-chain delegation within stROSEMinter | [Dashboard](dashboards/ROSE.md) |
 | VLX | stVLX | 🔢 Multi-sig delegation | [Dashboard](dashboards/VLX.md) |
 | WACME | stACME | 🔢 Multi-sig delegation | [Dashboard](dashboards/WACME.md) |
@@ -28,6 +29,7 @@ Multi-sig addresses related to Accumulated Finance
 | 11820 | Artela | `0x7006cff0bab69c702efa9844ee52d67d2d643e3d` | 2/3 | [Explorer](https://artscan.artela.network/address/0x7006cff0bab69c702efa9844ee52d67d2d643e3d) |
 | 23294 | Oasis Sapphire | `0xBc85273bE2919A2D9E2149692659E94Abb731805` | 2/3 | [Explorer](https://explorer.oasis.io/mainnet/sapphire/address/0xBc85273bE2919A2D9E2149692659E94Abb731805) |
 | 42161 | Arbitrum | `0xacEf9317dE22A4AE2Fc9bCB9d448c912bdbCadd1` | 2/3 | [Explorer](https://arbiscan.io/address/0xacEf9317dE22A4AE2Fc9bCB9d448c912bdbCadd1) |
+| 2632500 | COTI | `0x447bb236a36d1D4cce3971a90ea4aB51E8F8CC2b` | 2/3 | [Explorer](https://mainnet.cotiscan.io/address/0x447bb236a36d1D4cce3971a90ea4aB51E8F8CC2b) |
 
 ### Squads Multi-sigs
 | Network | Address | Threshold | Explorer |
