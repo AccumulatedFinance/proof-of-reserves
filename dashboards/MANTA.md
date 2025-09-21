@@ -8,9 +8,8 @@ stMANTA LST is fully backed by staked MANTA
 ## Addresses
 
 ### stMANTA Minters
-| Network | Address | Explorer |
-| -- | -- | -- |
-| Manta Pacific | `0x27741d007358eb6c1924bf459cd7e06e60c8c1de` | [Explorer](https://pacific-explorer.manta.network/address/0x27741d007358eb6c1924bf459cd7e06e60c8c1de) |
+Actual minter address(es) can be found here:<br />
+[https://accumulated.finance/stake/manta](https://accumulated.finance/stake/manta)
 
 ### Staking Manager
 | Network | Address | Explorer |
